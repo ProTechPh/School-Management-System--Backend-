@@ -43,7 +43,7 @@ A comprehensive REST API for managing school operations built with Node.js, Expr
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ProTechPh/School-Management-System--Backend-.git
    cd school-management-system
    ```
 
